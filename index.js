@@ -1,5 +1,6 @@
-function dwarfRollCall(dwarves) {
+function dwarfRollCall(dwarves) {"Doc", "Dopey", "Bashful", "Grumpy"
 }
+
 
 function summonCaptainPlanet(planeteerCalls){
 }
