@@ -8,7 +8,6 @@ let listDwarves = []
      return listDwarves.join("")
   }
 
-
 function summonCaptainPlanet(planeteerCalls){
 }
 
