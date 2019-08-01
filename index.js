@@ -1,5 +1,4 @@
-dwarves = 
-
+dwarves = ["Doc", "Dopey", "Bashful", "Grumpy"]
 
 function dwarfRollCall(dwarves) {
 }
