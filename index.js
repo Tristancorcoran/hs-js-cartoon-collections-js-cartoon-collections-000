@@ -2,8 +2,12 @@ dwarves = ["Doc", "Dopey", "Bashful", "Grumpy"]
 
 function dwarfRollCall(dwarves) {
 }
-i = 0
+let listDwarves = []
+  for(let i = 0; i < dwarves.length; i++){
     
+    listDwarves.push(`${i+1}. ${dwarves[i]} `)
+    
+  }
 
 
 function summonCaptainPlanet(planeteerCalls){
