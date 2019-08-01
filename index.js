@@ -1,6 +1,6 @@
 function dwarfRollCall(dwarves) {"Doc", "Dopey", "Bashful", "Grumpy"
 }
-roll_call_dwarves
+def roll_call_dwarves
 function summonCaptainPlanet(planeteerCalls){
 }
 
