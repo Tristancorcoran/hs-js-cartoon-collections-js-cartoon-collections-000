@@ -1,5 +1,6 @@
-function dwarfRollCall(dwarves) {"Doc", "Dopey", "Bashful", "Grumpy"
+function dwarfRollCall(dwarves) {
 }
+let dwarves = 
 def roll_call_dwarves(Array)
 let i =  0;
 
