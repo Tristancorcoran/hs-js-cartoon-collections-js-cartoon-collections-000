@@ -1,7 +1,6 @@
 function dwarfRollCall(dwarves) {"Doc", "Dopey", "Bashful", "Grumpy"
 }
-var dwarves = 'dwarfRollCall' 
-return ("1. Dopey 2. Grumpy 3. Bashful")
+roll_call_dwarves
 function summonCaptainPlanet(planeteerCalls){
 }
 
